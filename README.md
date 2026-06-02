@@ -1,7 +1,7 @@
-# Hi👋, I am Sayantan
-🎓CSE Student
-💻Learning C++,DSA & Problem Solving 
-🚀Exploring Open Source and Software Development
-🌱Currently improving my skils evryday at all fields i can
----
-⭐ "Code. Learn. Build. Repeat."
+# Hi👋, I am Sayantan <br/>
+🎓CSE Student <br/>
+💻Learning C++,DSA & Problem Solving <br/>
+🚀Exploring Open Source and Software Development <br/>
+🌱Currently improving my skils evryday at all fields i can <br/>
+--- <br/>
+⭐ "Code. Learn. Build. Repeat." <br/>
